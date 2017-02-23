@@ -1,0 +1,20 @@
+Tue Oct 13 21:18:37 EDT 2015 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Oct 13 22:16:44 EDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0150-63ed-7459-ffffad0cfa6c 
+on database directory /home/owen/NetBeansProjects/416Assignment2/src/java/jdbc/HW2DB with class loader sun.misc.Launcher$AppClassLoader@5e2de80c 
+Loaded from file:/usr/lib/jvm/java-8-oracle/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/usr/lib/jvm/java-8-oracle/db
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-30-generic
+derby.system.home=/home/owen/NetBeansProjects/416Assignment2/src/java/jdbc/
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 14 00:53:50 EDT 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Oct 14 00:53:50 EDT 2015:
+Shutting down instance a816c00e-0150-63ed-7459-ffffad0cfa6c on database directory /home/owen/NetBeansProjects/416Assignment2/src/java/jdbc/HW2DB with class loader sun.misc.Launcher$AppClassLoader@5e2de80c 
+----------------------------------------------------------------
